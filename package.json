@@ -1,0 +1,22 @@
+{
+  "name": "cracking-coding-interview-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinygit/cracking-coding-interview-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinygit/cracking-coding-interview-practice/issues"
+  },
+  "homepage": "https://github.com/shinygit/cracking-coding-interview-practice#readme",
+  "dependencies": {
+    "jest": "^26.2.2"
+  }
+}
